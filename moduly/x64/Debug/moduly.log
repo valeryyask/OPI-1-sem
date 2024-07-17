@@ -1,0 +1,3 @@
+﻿  Main.cpp
+D:\d\уник\опи\moduly\Main.cpp(8,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  moduly.vcxproj -> D:\d\уник\опи\moduly\x64\Debug\moduly.exe
